@@ -1,0 +1,6 @@
+ان شاء الله
+// TODO: Enhance the app :
+// * Use a SQL database or MongoDB, etc. 
+// * Add authentication using JWT/cookies 
+// * Sanitize the user data (TS + zod) 
+// * Some level of rate limits, etc.

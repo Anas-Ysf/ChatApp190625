@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "nanoid": "^5.1.5",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.1"
+  }
+}
