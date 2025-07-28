@@ -1,10 +1,10 @@
 # ChatApp190625
-🗨️ **Real-Time Chat App**  
+## 🗨️ **Real-Time Chat App with Room Support**  
 A full-stack, multi-room chat application built with React + Vite and powered by WebSockets (Socket.IO). Connect instantly, join rooms, and chat live with typing indicators and smooth UI.
 
 ---
 
-✨ **Features**
+## ✨ **Features**
 
 - 💬 Real-time messaging with Socket.IO
 - 🧑‍🤝‍🧑 50 chat rooms to explore and join
@@ -16,7 +16,7 @@ A full-stack, multi-room chat application built with React + Vite and powered by
 
 ---
 
-🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 
 **Frontend**
 - React 18 + Vite
@@ -31,14 +31,10 @@ A full-stack, multi-room chat application built with React + Vite and powered by
 
 **Deployment**
 - Frontend: Netlify  
-- Backend: Render / Railway / Local WebSocket Server
 
 ---
 
-🚀 **Quick Start**
+## 🚀 **Quick Start**
+Page Links:
 
-1. **Clone the repo:**
-
-```bash
-git clone https://github.com/your-username/ChatApp.git
-cd ChatApp
+https://chatapp190625.netlify.app/ (working link)
