@@ -2,8 +2,6 @@
 ## 🗨️ **Real-Time Chat App with Room Support**  
 A full-stack, multi-room chat application built with React + Vite and powered by WebSockets (Socket.IO). Connect instantly, join rooms, and chat live with typing indicators and smooth UI.
 
----
-
 ## ✨ **Features**
 
 - 💬 Real-time messaging with Socket.IO
@@ -13,8 +11,6 @@ A full-stack, multi-room chat application built with React + Vite and powered by
 - 🌈 Responsive UI styled with TailwindCSS
 - 🔄 In-memory message persistence by room
 - 🔒 Username prompt on entry
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -31,8 +27,6 @@ A full-stack, multi-room chat application built with React + Vite and powered by
 
 **Deployment**
 - Frontend: Netlify  
-
----
 
 ## 🚀 **Quick Start**
 Page Links:
